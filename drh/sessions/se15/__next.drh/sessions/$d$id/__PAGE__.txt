@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:"/mouress-training-demo/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/mouress-training-demo/_next/static/chunks/0qn_y0-bka9kx.js"
+9:"/mouress-training-demo/_next/static/chunks/1neeg7owwsk94.js"
+a:I[22016,["$2","$8","$9"],""]
+b:I[5500,["$2","$8"],"Image"]
+c:I[84834,["$2","$8"],"SideNav"]
+d:I[84834,["$2","$8"],"SpaceSwitcher"]
+e:I[84834,["$2","$8"],"BackLink"]
+1c:"ViewportBoundary"
+1d:I[97367,["$2"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"$Sreact.suspense"
+:HL["/mouress-training-demo/_next/static/chunks/2jbi-90mviv_8.css","style"]
+6:X
+15:X
+15:C
+19:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L1a","p":"$@1b","v":null,"s":"$6"}}]]
+16:[["children",{"s":{"n":"id","t":"d","k":"se15","s":[]},"h":65632,"d":{"r":"$L17","p":"$@18","v":"$15","s":"$6"},"c":"$Q19"}]]
+12:[["children",{"s":"sessions","h":131168,"d":{"r":"$L13","p":"$@14","v":"$15","s":"$6"},"c":"$Q16"}]]
+7:[["children",{"s":"drh","h":131168,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/mouress-training-demo/_next/static/chunks/0qn_y0-bka9kx.js","async":true}]],["$","div",null,{"className":"min-h-dvh md:grid md:grid-cols-[232px_1fr]","children":[["$","aside",null,{"className":"hidden border-r border-line bg-surface p-4 md:flex md:flex-col md:gap-5","children":[["$","$La",null,{"href":"/drh","aria-label":"MOURESS TRAINING, accueil","children":["$","$Lb",null,{"src":"/mouress-training-demo/brand/mouress-logo-horizontal-couleur-pour-fond-clair.svg","alt":"MOURESS","width":150,"height":38,"priority":true}]}],["$","div",null,{"className":"-mb-2 text-[0.7rem] font-bold uppercase tracking-wide text-muted","children":"DRH"}],["$","$Lc",null,{"items":[{"href":"/drh","label":"Tableau de bord","short":"Bord"},{"href":"/drh/agents","label":"Agents et organisation","short":"Agents"},{"href":"/drh/sessions","label":"Sessions","short":"Sessions"},{"href":"/drh/plan","label":"Plan annuel et budget","short":"Plan"},{"href":"/drh/questions","label":"Banque de questions","short":"Questions"},{"href":"/drh/rapports","label":"Rapports","short":"Rapports"},{"href":"/drh/audit","label":"Journal d'audit","short":"Audit"}]}],["$","p",null,{"className":"mt-auto text-[0.7rem] text-muted","children":["Éditeur : ","MOURESS"]}]]}],["$","div",null,{"className":"flex min-w-0 flex-col","children":[["$","header",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 border-b border-line bg-surface px-4 py-2.5","children":[["$","$La",null,{"href":"/drh","className":"md:hidden","aria-label":"MOURESS TRAINING, accueil","children":["$","$Lb",null,{"src":"/mouress-training-demo/brand/mouress-logo-icone-couleur-pour-fond-clair.svg","alt":"MOURESS","width":30,"height":30,"priority":true}]}],["$","div",null,{"className":"min-w-0 flex-1","children":[["$","div",null,{"className":"truncate text-sm font-semibold text-primary","children":"MOURESS TRAINING"}],["$","div",null,{"className":"hidden truncate text-xs text-muted sm:block","children":"Développer les compétences, renforcer l'expertise nationale"}]]}],["$","span",null,{"className":"hidden rounded-full border border-[#e3b558] bg-[#fff4db] px-2.5 py-0.5 text-xs font-bold text-[#7a4a00] sm:inline","children":"Données fictives"}],["$","$Ld",null,{}]]}],["$","p",null,{"className":"border-b border-[#e3b558] bg-[#fff4db] px-4 py-1 text-center text-[0.7rem] font-bold text-[#7a4a00] sm:hidden","children":"Données fictives"}],["$","main",null,{"className":"mx-auto w-full max-w-5xl flex-1 px-4 pb-24 pt-4 md:px-6 md:pb-8","children":[["$","div",null,{"className":"mb-3","children":["$","$Le",null,{}]}],["$","$L3",null,{"parallelRouterKey":"children","template":"$Lf"}]]}]]}],"$L10"]}]]}],"p":"$@11","v":null,"s":"$6"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mouress-training-demo/_next/static/chunks/2jbi-90mviv_8.css","precedence":"next"}],["$","script","script-0",{"src":"/mouress-training-demo/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"fr","style":{"--primary":"#0b2a55","--secondary":"#14633f","--accent":"#e0a526","--accent-ink":"#2b1d00","--page":"#fbf8f1"},"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0b2a55"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Session · MOURESS TRAINING"}],["$","meta","1",{"name":"description","content":"Développer les compétences, renforcer l'expertise nationale"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@21","v":null,"s":"$6"}},"a":"$@22","u":"$@23","b":"cgbne_ChUxg0eHPTkbbp9"}
+24:I[84834,["$2","$8"],"TabBar"]
+25:I[70506,["$2","$8","$9"],"AttendanceSheet"]
+26:I[97367,["$2"],"OutletBoundary"]
+f:["$","$L4",null,{}]
+10:["$","$L24",null,{"items":"$7:0:1:d:r:props:children:1:props:children:0:props:children:2:props:items"}]
+13:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]
+1a:["$","$1","c",{"children":[[["$","div",null,{"className":"mb-1 font-mono text-xs text-muted","children":["S-2027-015"," · ","Planifiée"]}],["$","h1",null,{"className":"mb-4 text-2xl","children":"Régime juridique des hydrocarbures"}],["$","div",null,{"className":"min-w-0 rounded-card border border-line bg-surface p-4 mb-4","children":["$","dl",null,{"className":"grid grid-cols-2 gap-x-3 gap-y-2 text-sm sm:grid-cols-3","children":[["$","div","Dates",{"children":[["$","dt",null,{"className":"text-xs text-muted","children":"Dates"}],["$","dd",null,{"children":"14 juin 2027 au 15 juin 2027"}]]}],["$","div","Lieu",{"children":[["$","dt",null,{"className":"text-xs text-muted","children":"Lieu"}],["$","dd",null,{"children":"À distance"}]]}],["$","div","Modalité",{"children":[["$","dt",null,{"className":"text-xs text-muted","children":"Modalité"}],["$","dd",null,{"children":"E-learning"}]]}],["$","div","Places",{"children":[["$","dt",null,{"className":"text-xs text-muted","children":"Places"}],["$","dd",null,{"children":"4 inscrits sur 30"}]]}],["$","div","Formateur",{"children":[["$","dt",null,{"className":"text-xs text-muted","children":"Formateur"}],["$","dd",null,{"children":"Formateur de démonstration"}]]}],["$","div","Coût estimé",{"children":[["$","dt",null,{"className":"text-xs text-muted","children":"Coût estimé"}],["$","dd",null,{"children":"100 800 FCFA"}]]}]]}]}],["$","$L25",null,{"session":{"id":"se15","ref":"S-2027-015","courseCode":"reg-loi-2019","start":"2027-06-14","end":"2027-06-15","location":"À distance","capacity":30,"status":"Planifiée","enrolledIds":["a30","a20","a01","a02"],"presentIds":[],"passedIds":[]}}]],[["$","script","script-0",{"src":"/mouress-training-demo/_next/static/chunks/1neeg7owwsk94.js","async":true}]],["$","$L26",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]]}]
+6:300
+27:null
+23:true
+6:C
+22:0
+18:"$undefined"
+14:"$undefined"
+11:"$undefined"
+5:"$undefined"
+21:"$undefined"
+1b:"$undefined"
